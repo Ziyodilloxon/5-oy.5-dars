@@ -1,0 +1,29 @@
+.timer {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#display {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+  width: 100px;
+  height: 60px;
+  border-radius: 14px;
+  font-family: sans-serif;
+  font-weight: 600;
+  border: none;
+  background-color: rgba(188, 9, 9, 0.2705882353);
+}
+
+button:hover {
+  color: rgba(188, 9, 9, 0.2705882353);
+  background-color: #ffffff;
+  border: 5px double rgba(188, 9, 9, 0.2705882353);
+}/*# sourceMappingURL=style.css.map */
